@@ -1,0 +1,42 @@
+{
+    "pessoal": {
+        "nome": "Eber Leocádio",
+        "datanascimento": "19/03/1992",
+        "email": "eberleocadio@gmail.com",
+        "telefone": "(34) 9 9152-2767"
+    },
+    "formacao": {
+        "for1": "Cursando Análises e Desenvolvimento de Sistemas - IFTM (Instituto Federal do Triângulo Mineiro) 2.período",
+        "for2": "Curso de Eletricista e Manutenção Industrial - SENAI (Maio de 2013)",
+        "for3": "Curso de Montagem e Manutenção de Micros e Redes - CEFOP (Julho de 2007)"
+    },
+    "experiencia": {
+        "ex1": {
+            "local": "R3S - Soluções Tecnológicas LTDA",
+            "cargo": "Técnico de Manutenção",
+            "atividades": "Manutenção em sistemas de controle de acesso e monitoramento"
+        },
+        "ex2": {
+            "local": "AMO - Acessoria Médica Ocupacional",
+            "cargo": "Analista de TI",
+            "atividades": "Suporte técnico ao usuário, manutenção e configuração de computadores e redes, administração de servidores"
+        },
+        "ex3": {
+            "local": "Innova Energy",
+            "cargo": "Eletricista",
+            "atividades": "Montagem e instalação de sistemas fotovoltaicos, montagem e manutenção de painéis elétricos, responsável pela execução de projetos"
+        },
+        "ex4": {
+            "local": "BRF - Foods",
+            "cargo": "Eletricista",
+            "atividades": "Manutenção preventiva e corretiva em equipamentos automatizados, painéis e comandos elétricos, PLC e inversores, instalação  de melhorias na linha de produção e sistemas de segurança. Acompanhamento da produção e partidas de linha. "
+        }
+    },
+    "habilidades": {
+        "hb1": [
+            "HTML/CSS",
+            " JavaScript",
+            " Angular(Framework)"
+        ]
+    }
+}

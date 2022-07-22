@@ -1,0 +1,108 @@
+{
+    "certificados": [
+        {
+            "nome": "BootCamp Orbi Games Web Developer",
+            "cert": "./images/OrbiGamesWebDeveloper.png"
+        },
+        {
+            "nome": "Java Script",
+            "cert": "./images/JsCursoVideo.png"
+        },
+        {
+            "nome": "JavaScript Assíncrono",
+            "cert": "./images/JsAssincrono.png"
+        },
+        {
+            "nome": "Coleções JavaScript",
+            "cert": "./images/JsColecoes.png"
+        },
+        {
+            "nome": "Debugging e Error Handling",
+            "cert": "./images/JsDebuggingError.png"
+        },
+        {
+            "nome": "Manipulando a DOM com JavaScript",
+            "cert": "./images/JsDom.png"
+        },
+        {
+            "nome": "Funções JavaScript",
+            "cert": "./images/JsFuncoes.png"
+        },
+        {
+            "nome": "Map, Filter e Reduce JavaScript",
+            "cert": "./images/JsMapFilter.png"
+        },
+        {
+            "nome": "Trabalhando com Módulos em JavaScript",
+            "cert": "./images/JsModulo.png"
+        },
+        {
+            "nome": "Orientação a Objetos JavaScript",
+            "cert": "./images/JsOrientacaoObjetos.png"
+        },
+        {
+            "nome": "Sintaxe Básica em JavaScript",
+            "cert": "./images/JsSintaxeBasicas.png"
+        },
+        {
+            "nome": "Sintaxe e Operadores JavaScript",
+            "cert": "./images/JsSintaxeOperadores.png"
+        },
+        {
+            "nome": "Váriaveis e Types JavaScript",
+            "cert": "./images/JsVariaveisTypes.png"
+        },
+        {
+            "nome": "Arquitetura de Componentes",
+            "cert": "./images/AngularComponents.png"
+        },
+        {
+            "nome": "O poder do Data Binding no Angular",
+            "cert": "./images/AngularDataBinding.png"
+        },
+        {
+            "nome": "Implementando Serviços e Injeção de Dependências com Angular",
+            "cert": "./images/AngularDependenciasServicos.png"
+        },
+        {
+            "nome": "Explorando Diretivas com Angular",
+            "cert": "./images/AngularDiretivas.png"
+        },
+        {
+            "nome": "Instalando e Preparando Ambiente Angular",
+            "cert": "./images/AngularIntalandoAmbiente.png"
+        },
+        {
+            "nome": "Introducao ao Angular 8",
+            "cert": "./images/AngularIntroducao.png"
+        },
+        {
+            "nome": "Criação de Pipes com Angular",
+            "cert": "./images/AngularPipes.png"
+        },
+        {
+            "nome": "Introdução a Serviços Assíncronos no Angular",
+            "cert": "./images/AngularServicosAssincronos.png"
+        },
+        {
+            "nome": "Trabalhando com Páginas SPA com Angular",
+            "cert": "./images/AngularSpa.png"
+        },
+        {
+            "nome": "Trabalhando com Componentes em Angular",
+            "cert": "./images/AngularTrabalhandoComponents.png"
+        },
+        {
+            "nome": "Pensamento Computacional",
+            "cert": "./images/PensamentoComputacional.png"
+        },
+        {
+            "nome": "Pensamento Computacional",
+            "cert": "./images/PrimeiroPassoDesenvolvimentoWeb.png"
+        },
+        {
+            "nome": "Projetos ágeis com SCRUM",
+            "cert": "./images/Scrum.png"
+        }
+    ]
+}
